@@ -8,4 +8,5 @@ Splash Screen previo a la pantalla principal de la app.
 ![myimage-alt-tag](https://github.com/wendysoto/Prueba1_Topicos/blob/master/1.jpeg) 
 
 Pantalla principal con opciones de CRUD
+
 ![myimage-alt-tag](https://github.com/wendysoto/Prueba1_Topicos/blob/master/main.jpeg) 
